@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrz-AcYxvf_oZH7w_RXJ6cANHQDQBfexRog&s" group-title="Local Variety",Charana TV
-https://str001.peotv.lk/ndrm/live/charana/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/4I92+ViXDXT6T8O1FIBFQ", "kid":"Z1IBWs8IRXKgjf4heW+LRQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Sun TV" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" group-title="",Sun TV
-https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
+b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
